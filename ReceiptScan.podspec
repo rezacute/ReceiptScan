@@ -24,11 +24,11 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/rezacute/ReceiptScan'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'rezacute' => 'riza.alaudin@kii.com' }
+  s.author           = { 'rezacute' => 'rezaqt@gmail.com' }
   s.source           = { :git => 'https://github.com/rezacute/ReceiptScan.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'ReceiptScan/Classes/**/*'
   
